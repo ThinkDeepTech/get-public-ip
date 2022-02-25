@@ -1,0 +1,23 @@
+{
+  "name": "@thinkdeep/get-public-ip",
+  "version": "1.0.0",
+  "description": "Simple module providing a function that gets the host public IP.",
+  "main": "get-public-ip.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkDeepTech/get-public-ip.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Hayden McParlane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkDeepTech/get-public-ip/issues"
+  },
+  "homepage": "https://github.com/ThinkDeepTech/get-public-ip#readme"
+}

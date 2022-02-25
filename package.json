@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/ThinkDeepTech/get-public-ip/issues"
   },
-  "homepage": "https://github.com/ThinkDeepTech/get-public-ip#readme"
+  "homepage": "https://github.com/ThinkDeepTech/get-public-ip#readme",
+  "private": "false"
 }
